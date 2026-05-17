@@ -60,20 +60,3 @@ The project includes:
 
 ---
 
-## Learning Outcomes
-
-This project provided practical experience with:
-
-- Docker containerization
-- Nginx server configuration
-- TLS/SSL implementation
-- HTTPS deployment
-- Wireshark TLS analysis
-- Secure web infrastructure
-
----
-
-## Author
-
-Zalina Muratova
-Cybersecurity & Network Security Student
