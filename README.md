@@ -37,17 +37,17 @@ The project includes:
 
 ## Screenshots
 
-### HTTPS Portfolio Website
-(upload screenshot)
-
-### Docker Container Running
-(upload screenshot)
+### Portfolio Website
+![Portfolio Website](portfolio-website.png)
 
 ### TLS Browser Warning
-(upload screenshot)
+![TLS Warning](tls-warning.png)
+
+### Docker Container Running
+![Docker Container](docker-container.png)
 
 ### Wireshark TLS Analysis
-(upload screenshot)
+![Wireshark TLS Analysis](wireshark-tls-analysis.png)
 
 ---
 
